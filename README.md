@@ -25,7 +25,9 @@
 
 ### 👨‍💻: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Missouri.
+🧔 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Missouri.
+
+⚙ Preferred tech: MSSQL, ASPNET Core, Vue, Azure.
 
 ---
 
